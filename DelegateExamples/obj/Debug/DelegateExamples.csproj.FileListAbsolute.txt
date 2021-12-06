@@ -1,0 +1,6 @@
+C:\Users\Arthur\Desktop\Albert\DelegateExamples\DelegateExamples\bin\Debug\DelegateExamples.exe.config
+C:\Users\Arthur\Desktop\Albert\DelegateExamples\DelegateExamples\bin\Debug\DelegateExamples.exe
+C:\Users\Arthur\Desktop\Albert\DelegateExamples\DelegateExamples\bin\Debug\DelegateExamples.pdb
+C:\Users\Arthur\Desktop\Albert\DelegateExamples\DelegateExamples\obj\Debug\DelegateExamples.csprojAssemblyReference.cache
+C:\Users\Arthur\Desktop\Albert\DelegateExamples\DelegateExamples\obj\Debug\DelegateExamples.exe
+C:\Users\Arthur\Desktop\Albert\DelegateExamples\DelegateExamples\obj\Debug\DelegateExamples.pdb
